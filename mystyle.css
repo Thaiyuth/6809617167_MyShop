@@ -134,7 +134,7 @@
     .category1{
     display: grid;
     grid-template-columns: 300px 600px; /* แบ่งเป็น 2 คอลัมน์ ขนาดเท่าๆ กัน */
-    grid-template-rows:300px 200px 200px 200px;
+    grid-template-rows:auto auto auto auto;
     gap:10px 100px; /* เพิ่มระยะห่างระหว่างแต่ละช่อง */
     display: flexbox;
     justify-content: center;
@@ -144,4 +144,12 @@
     .item {
     border: 1px solid black;
     padding: 10px;
+    }
+    .head_amulet1{
+        font-size: 40px;
+    }
+    #describe_amulet1{
+        padding-top: 80px;
+        font-weight: bolder;
+        font-size: 20px;
     }

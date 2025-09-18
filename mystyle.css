@@ -165,4 +165,8 @@
         border: 5px black solid;
         padding-left: 20px;
     }
-    
+    .head_amulet3{
+        font-size: 40px;
+        text-decoration: underline double;
+        margin-top: -20px
+    }

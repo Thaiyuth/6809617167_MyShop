@@ -140,10 +140,8 @@
     }
 
     /* คุณสามารถปรับแต่งแต่ละช่องได้ตามต้องการ */
-    .item {
-    border: 5px solid black;
-    padding: 10px;
-    }
+    
+
     .head_amulet1{
         font-size: 40px;
     }
@@ -151,6 +149,8 @@
         padding-top: 80px;
         font-weight: bolder;
         font-size: 20px;
+        border: 5px black solid;
+        padding-left: 20px;
     }
     .head_amulet2{
         font-size: 40px;
@@ -160,3 +160,4 @@
         font-weight: bolder;
         font-size: 20px;
     }
+    

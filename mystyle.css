@@ -136,6 +136,7 @@
     grid-template-columns: 300px 600px; /* แบ่งเป็น 2 คอลัมน์ ขนาดเท่าๆ กัน */
     grid-auto-rows: auto;
     gap:10px 100px; /* เพิ่มระยะห่างระหว่างแต่ละช่อง */
+    justify-content: center;
     }
 
     /* คุณสามารถปรับแต่งแต่ละช่องได้ตามต้องการ */

@@ -142,7 +142,7 @@
 
     /* คุณสามารถปรับแต่งแต่ละช่องได้ตามต้องการ */
     .item {
-    border: 1px solid black;
+    border: 5px solid black;
     padding: 10px;
     }
     .head_amulet1{
